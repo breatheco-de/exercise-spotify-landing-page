@@ -1,6 +1,8 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  Shopify Landing Page
+<!--hide-->
+# Shopify Landing Page
+<!--endhide-->
 
-As a junior developer you are going to be asked to do lots of HTML/CSS landing pages for marketing purposes.
+As a junior developer, you are going to be asked to do lots of HTML/CSS landing pages for marketing purposes.
 
 ## 🌱  How to start this project
 
@@ -23,8 +25,8 @@ Replicate [this exact landing page](https://github.com/breatheco-de/exercise-spo
 ## Goals
 
 1. Demonstrate the perks of using a framework like bootstrap.
-2. Work in a real life website used by one of the most popular companies in the world.
-3. Replicate a real life working environment, doing a real-life typical task.
+2. Work on a real-life website used by one of the most popular companies in the world.
+3. Replicate a real-life working environment, doing a real-life typical task.
 
 ## Technologies
 
