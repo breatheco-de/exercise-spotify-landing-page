@@ -1,4 +1,6 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  Shopify Landing Page
+<!--hide-->
+# Página de inicio de Shopify
+<!--endhide-->
 
 Como desarrollador junior tendrás que hacer muchas páginas de inicio HTML/CSS para marketing.
 
@@ -17,7 +19,7 @@ $ git clone https://github.com/breatheco-de/exercise-spotify-landing-page.git
 
 
 ## 📝 Instrucciones
-Haz [exactamente esta página de inicio](https://github.com/breatheco-de/exercise-spotify-landing-page/blob/master/preview.png?raw=true) using bootstrap framework, please use the assets found on [the following link](https://github.com/breatheco-de/exercise-spotify-landing-page/blob/master/assets.zip?raw=true).
+Haz [exactamente esta página de inicio](https://github.com/breatheco-de/exercise-spotify-landing-page/blob/master/preview.png?raw=true) utilizando el bootstrap framework, usa los activos que se encuentran en [el siguiente enlace](https://github.com/breatheco-de/exercise-spotify-landing-page/blob/master/assets.zip?raw=true).
 
 ![Spotify Landing Page](https://github.com/breatheco-de/exercise-spotify-landing-page/blob/master/preview.png?raw=true)
 
