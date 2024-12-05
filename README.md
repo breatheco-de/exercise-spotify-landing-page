@@ -2,6 +2,8 @@
 
 As a junior developer you are going to be asked to do lots of HTML/CSS landing pages for marketing purposes.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  How to start this project
 
 This project comes with the necessary files to start working, but you have two options to start:
@@ -13,6 +15,8 @@ b) You can clone this repository on your local computer:
 $ git clone https://github.com/breatheco-de/exercise-spotify-landing-page.git
 ```
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
+</onlyfor>
 
 ## 📝 Instructions
 
