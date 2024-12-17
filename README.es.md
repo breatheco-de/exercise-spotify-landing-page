@@ -1,4 +1,6 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  Shopify Landing Page
+<!--hide-->
+# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  Página de Inicio para Shopify
+<!-- endhide -->
 
 Como desarrollador junior tendrás que hacer muchas páginas de inicio HTML/CSS para marketing.
 
@@ -8,9 +10,10 @@ Como desarrollador junior tendrás que hacer muchas páginas de inicio HTML/CSS 
 
 Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
 
-a) Abrir este link con Gitpod en tu navegador: https://gitpod.io#https://github.com/breatheco-de/exercise-spotify-landing-page.git
+a) Abrir este enlace con [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod) en tu navegador: https://s.4geeks.com/start?repo=breatheco-de/exercise-spotify-landing-page
 
 b) Clonar este repositorio localmente en tu computador:
+
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-spotify-landing-page.git
 ```
