@@ -3,6 +3,7 @@
 	"slug" : "spotify-landing-page",
 	"status": "published",
 	"duration" : 6,
+	"template_url": "self",
 	"syntax": "html/css/js",
 	"technologies": ["html", "css", "javascript"],
 	"difficulty": "intermediate",
